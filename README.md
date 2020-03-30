@@ -73,7 +73,7 @@ In this task you should show that you know how to estimate the model parameters 
 
 Task: https://kth.kattis.com/problems/kth.ai.duckhunt
 
-In this task must:
+In this task we must:
 
 - classify the birds and based on the probability distribution of the classification of the bird, decide to shoot it or not
 - guess the type of each bird based on the observations
