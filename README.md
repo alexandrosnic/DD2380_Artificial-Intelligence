@@ -24,6 +24,13 @@ Three dimensional tic-tac-toe: 4x4x4
 
 Alfa-beta-pruning applied on the minimax algorithm's search tree. Branching factor of 64. A total of 76 possible winning rows.
 
+#### Checkers
+
+Task: https://kth.kattis.com/problems/kth.ai.checkers
+
+In this assignment, our goal was to implement a strategy that allows our program to win (or not lose) as often as possible .
+
+
 ## A.2 HMMs
 
 #### HMM0 Next Emission Distribution
@@ -58,7 +65,7 @@ Task: https://kth.kattis.com/problems/kth.ai.hmm3
 
 In this task you should show that you know how to estimate the model parameters for an HMM. You will be given a starting guess of a HMM (transition matrix, emission matrix and initial state probability distribution) and a sequence of emissions and you should train the HMM to maximize the probability of observing the given sequence of emissions.
 
-- Combining the forward- and backward-passing algorithms: a-pass & ß-pass
+- Combining the forward- and backward-passing algorithms: a-pass & ÃŸ-pass
 - Creating di-gamma gamma_t(i,j) and gamma gamma_t(i) in order to re-estimate parameters lambda = (A,B,p)  iteratively until convergence criteria is met
 - Creating di-gamma $gamma_{t}(i,j)$ and gamma $gamma_{t}(i)$ in order to re-estimate parameters lambda = (A,B,p)  iteratively until convergence criteria is met
 
